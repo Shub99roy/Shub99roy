@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shubham</h1>
 <h3 align="center">A passionate Software engineer from India</h3>
+<img align="right" alt="coding" width="400" src="![image](https://user-images.githubusercontent.com/118879202/204039250-4eaef516-c2ef-4a81-b1ee-46256968f706.png)">
 
 - 📫 How to reach me *shub99roy@outlook.com*
 
