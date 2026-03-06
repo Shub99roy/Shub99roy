@@ -123,12 +123,20 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
-
-###
+<h3 align="left">🔥 My Stats</h3>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Shub99roy&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+
+<img src="https://github-readme-stats.vercel.app/api?username=Shub99roy&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shub99roy&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shub99roy&theme=tokyonight&hide_border=true" height="200"/>
+
 </div>
 
 ###
