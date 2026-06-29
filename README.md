@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left"># Hi 👋 I'm Shubham Kumar Roy<br><br>🚀 Full-Stack Developer focused on the MERN Stack  <br>🔐 Interested in Cybersecurity and Secure Web Applications  <br>🎓 B.Tech Computer Science — MIMIT Malout (PTU)<br><br>I enjoy building scalable web applications and understanding how systems can be secured against real-world threats.</p>
+<p align="left"># Hi 👋 I'm Shubham Kumar Roy<br><br>🚀 Full-Stack Developer focused on the MERN Stack  <br>🔐 Interested in  Secure Web Applications  <br>🎓 B.Tech Computer Science — MIMIT Malout (PTU)<br><br>I enjoy building scalable web applications and understanding how systems can be secured against real-world threats.</p>
 
 ###
 
